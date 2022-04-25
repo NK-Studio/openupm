@@ -1,0 +1,20 @@
+name: com.nkstudio.snap-to-floor
+displayName: SnapToFloor
+description: Select the object and press the 'End' key to snap to the ground.
+repoUrl: 'https://github.com/bnm000215/UnitySnapToFloor'
+parentRepoUrl: null
+licenseSpdxId: null
+licenseName: ''
+topics:
+  - level-design
+hunter: ''
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: >-
+  https://github.com/bnm000215/UnitySnapToFloor/raw/16a9f9649769dc6c10b50736537e6cb0d6e6f131/Image~/example-settings.png
+readme: 'main:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1650897258750
